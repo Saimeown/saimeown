@@ -1,4 +1,7 @@
-Part-time coder, full-time cat human.
+<h3 align="center">
+  <samp>&gt; This is <b><a target="_blank" href="https://saimeown-portfolio.vercel.app/">Sai</a></b></samp>
+  <samp>&gt; This is <b>Part-time coder, full-time existential crisis generator.</b></samp>
+</h3>
 
 [Google Me](https://www.google.com)
 
