@@ -4,11 +4,22 @@
   <samp>&gt; Part-time coder, full-time existential crisis generator.</samp>
 </h3>
 
-[Google Me](https://www.google.com)
+<div align="center">
 
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/simon.garcia.334993/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/saimese._/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simon-brian-pamintuan-b626a5239/)
+  <a href="https://www.google.com/search?q=Simon+Brian+Pamintuan"><b>Google Me</b></a>
+  <br><br>
+
+  <a href="https://www.facebook.com/simon.garcia.334993/">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/saimese._/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/simon-brian-pamintuan-b626a5239/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+</div>
 
 ---
 
