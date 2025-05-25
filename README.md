@@ -1,7 +1,7 @@
 <h3 align="center">
-  <samp>&gt; This is <b><a target="_blank" href="https://saimeown-portfolio.vercel.app/">Sai</a></b></samp>
+  <samp>Hi! I'm Sai.</samp>
   <br>
-  <samp><b>Part-time coder, full-time existential crisis generator.</b></samp>
+  <samp>&gt; Part-time coder, full-time existential crisis generator.</samp>
 </h3>
 
 [Google Me](https://www.google.com)
