@@ -6,7 +6,11 @@
 
 <div align="center">
 
-  <a href="https://www.google.com/search?q=Simon+Brian+Pamintuan"><b>Google Me</b></a>
+<a href="https://www.google.com/search?q=Simon+Brian+Pamintuan">
+  <img src="https://img.shields.io/badge/Google%20Me-ffffff?style=for-the-badge&logo=google&logoColor=black" />
+</a>
+
+
   <br><br>
 
   <a href="https://www.facebook.com/simon.garcia.334993/">
@@ -23,7 +27,7 @@
 
 ---
 
-## 🚀 Tech Stack & Tools
+## 🐼 Tech Stack & Tools
 
 ![C](https://img.shields.io/badge/C-ffffff?style=for-the-badge&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C%2B%2B-ffffff?style=for-the-badge&logo=c%2B%2B&logoColor=black)
