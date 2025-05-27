@@ -1,7 +1,11 @@
 <h3 align="center">
   <samp>Hi! I'm Sai.</samp>
   <br>
-  <samp>&gt; 4th-year IT student at Our Lady of Fatima University, leaning toward web and mobile development.</samp>
+  <samp>4th-year IT student at Our Lady of Fatima University.</samp>
+  <br>
+  <samp>&gt; Web Development </samp>
+  <samp>&gt; Mobile Development </samp>
+  <samp>&gt; IoT Development </samp>
 </h3>
 
 <div align="center">
