@@ -1,7 +1,7 @@
 <h3 align="center">
   <samp>Hi! I'm Sai.</samp>
   <br>
-  <samp>&gt; Part-time coder, full-time existential crisis generator.</samp>
+  <samp>&gt; 80% caffeine, 20% imposter syndrome.</samp>
 </h3>
 
 <div align="center">
