@@ -1,7 +1,7 @@
 <h3 align="center">
   <samp>Hi! I'm Sai.</samp>
   <br>
-  <samp>&gt; Majoring in deadlines</samp>
+  <samp>&gt; 4th-year IT student at Our Lady of Fatima University, leaning toward web and mobile development.</samp>
 </h3>
 
 <div align="center">
