@@ -1,5 +1,5 @@
 <h3 align="center">
-  <samp>Hi! I'm Sai.</samp>
+  <samp>Hi, I'm Sai.</samp>
   <br>
   <samp>&gt; Web Development </samp>
   <samp>&gt; Mobile Development </samp>
