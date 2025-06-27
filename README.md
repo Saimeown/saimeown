@@ -1,5 +1,5 @@
 <h3 align="center">
-  <samp>Hi, I'm Sai.</samp>
+  <samp>real bad buidmess das dirty work</samp>
   <br>
   <samp>&gt; Web Development </samp>
   <samp>&gt; Mobile Development </samp>
