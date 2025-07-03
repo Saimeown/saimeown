@@ -1,9 +1,5 @@
 <h3 align="center">
   <samp>real bad buidmess das dirty work</samp>
-  <br>
-  <samp>&gt; Web Development </samp>
-  <samp>&gt; Mobile Development </samp>
-  <samp>&gt; IoT Development </samp>
 </h3>
 
 <div align="center">
