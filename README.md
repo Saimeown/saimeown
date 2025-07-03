@@ -2,27 +2,6 @@
   <samp>real bad buidmess das dirty work</samp>
 </h3>
 
-<div align="center">
-
-<a href="https://www.google.com/search?q=Simon+Brian+Pamintuan">
-  <img src="https://img.shields.io/badge/Google%20Me-ffffff?style=for-the-badge&logo=google&logoColor=black" />
-</a>
-
-
-  <br><br>
-
-  <a href="https://www.facebook.com/simon.garcia.334993/">
-    <img src="https://img.shields.io/badge/Facebook-ffffff?style=for-the-badge&logo=facebook&logoColor=black" />
-  </a>
-  <a href="https://www.instagram.com/saimese._/">
-    <img src="https://img.shields.io/badge/Instagram-ffffff?style=for-the-badge&logo=instagram&logoColor=black" />
-  </a>
-  <a href="https://www.linkedin.com/in/simon-brian-pamintuan-b626a5239/">
-    <img src="https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=black" />
-  </a>
-
-</div>
-
 ---
 
 ## 🐼 Tech Stack & Tools
