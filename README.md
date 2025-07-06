@@ -1,7 +1,4 @@
-<h3 align="center">
-  <samp>real bad buidmess das dirty work</samp>
-</h3>
-
+nothing to see here
 ---
 
 ## 🐼 Tech Stack & Tools
