@@ -1,4 +1,3 @@
-nothing to see here
 ---
 
 ## 🐼 Tech Stack & Tools
