@@ -1,5 +1,3 @@
----
-
 ## 🐼 Tech Stack & Tools
 
 ![C](https://img.shields.io/badge/C-ffffff?style=for-the-badge&logo=c&logoColor=black)
