@@ -7,7 +7,6 @@
 ![MySQL](https://img.shields.io/badge/MySQL-ffffff?style=for-the-badge&logo=mysql&logoColor=black)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-ffffff?style=for-the-badge&logo=tailwind-css&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VSCode-ffffff?style=for-the-badge&logo=visual-studio-code&logoColor=black)
-![Git](https://img.shields.io/badge/Git-ffffff?style=for-the-badge&logo=git&logoColor=black)
 ![GitHub](https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&logo=github&logoColor=black)
 ![XAMPP](https://img.shields.io/badge/XAMPP-ffffff?style=for-the-badge&logo=xampp&logoColor=black)
 ![NPM](https://img.shields.io/badge/NPM-ffffff?style=for-the-badge&logo=npm&logoColor=black)
