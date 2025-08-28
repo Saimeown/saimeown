@@ -1,7 +1,7 @@
 # Simon Brian G. Pamintuan 
 
 ## 🎓 About Me
-I'm a **4th Year IT Student** and **Full-Stack Developer** passionate about creating innovative solutions that make a real-world impact. Currently expanding my knowledge in modern database technologies while building practical applications that solve everyday problems.
+I'm a **4th Year IT Student** and **Full-Stack Developer** passionate about creating innovative solutions that make a real-world impact. Currently expanding my knowledge in modern technologies while building practical applications.
 
 ## 💻 Tech Stack
 
