@@ -4,21 +4,21 @@ I'm a **4th Year IT Student** and **Full-Stack Developer** creating innovative s
 Currently expanding my knowledge in modern technologies while building practical applications.
 ## Tech Stack
 ### Languages
-![JavaScript](https://img.shields.io/badge/-JavaScript-1a1b27?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&labelColor=1a1b27&color=1a1b27&label=)
-![PHP](https://img.shields.io/badge/-PHP-1a1b27?style=for-the-badge&logo=php&logoColor=%23777BB4&labelColor=1a1b27&color=1a1b27&label=)
-![Python](https://img.shields.io/badge/-Python-1a1b27?style=for-the-badge&logo=python&logoColor=%233776AB&labelColor=1a1b27&color=1a1b27&label=)
-![C](https://img.shields.io/badge/-C-1a1b27?style=for-the-badge&logo=c&logoColor=%23A8B9CC&labelColor=1a1b27&color=1a1b27&label=)
+![JavaScript](https://img.shields.io/badge/-JavaScript-1a1b27?style=for-the-badge&logo=javascript&logoColor=%23FFD600&labelColor=1a1b27&color=1a1b27&label=)
+![PHP](https://img.shields.io/badge/-PHP-1a1b27?style=for-the-badge&logo=php&logoColor=%23e100ff)
+![Python](https://img.shields.io/badge/-Python-1a1b27?style=for-the-badge&logo=python&logoColor=%230095FF&labelColor=1a1b27&color=1a1b27&label=)
+![C](https://img.shields.io/badge/-C-1a1b27?style=for-the-badge&logo=c&logoColor=%2300BFFF&labelColor=1a1b27&color=1a1b27&label=)
 
 ### Frameworks & Technologies
-![React](https://img.shields.io/badge/-React-1a1b27?style=for-the-badge&logo=react&logoColor=%2361DAFB&labelColor=1a1b27&color=1a1b27&label=)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-1a1b27?style=for-the-badge&logo=tailwindcss&logoColor=%2338B2AC&labelColor=1a1b27&color=1a1b27&label=)
-![Firebase](https://img.shields.io/badge/-Firebase-1a1b27?style=for-the-badge&logo=firebase&logoColor=%23FFCA28&labelColor=1a1b27&color=1a1b27&label=)
-![MySQL](https://img.shields.io/badge/-MySQL-1a1b27?style=for-the-badge&logo=mysql&logoColor=%234479A1&labelColor=1a1b27&color=1a1b27&label=)
-![IoT](https://img.shields.io/badge/-IoT-1a1b27?style=for-the-badge&logo=internetofthings&logoColor=%23E7352C&labelColor=1a1b27&color=1a1b27&label=)
-![Arduino](https://img.shields.io/badge/-Arduino-1a1b27?style=for-the-badge&logo=arduino&logoColor=%2300979D&labelColor=1a1b27&color=1a1b27&label=)
+![React](https://img.shields.io/badge/-React-1a1b27?style=for-the-badge&logo=react&logoColor=%2300F6FF&labelColor=1a1b27&color=1a1b27&label=)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-1a1b27?style=for-the-badge&logo=tailwindcss&logoColor=%2300EFFF&labelColor=1a1b27&color=1a1b27&label=)
+![Firebase](https://img.shields.io/badge/-Firebase-1a1b27?style=for-the-badge&logo=firebase&logoColor=%23FFCB2B&labelColor=1a1b27&color=1a1b27&label=)
+![MySQL](https://img.shields.io/badge/-MySQL-1a1b27?style=for-the-badge&logo=mysql&logoColor=%2300CFFF&labelColor=1a1b27&color=1a1b27&label=)
+![IoT](https://img.shields.io/badge/-IoT-1a1b27?style=for-the-badge&logo=internetofthings&logoColor=%23FF4040&labelColor=1a1b27&color=1a1b27&label=)
+![Arduino](https://img.shields.io/badge/-Arduino-1a1b27?style=for-the-badge&logo=arduino&logoColor=%2300FFD1&labelColor=1a1b27&color=1a1b27&label=)
 
 ### Currently Learning
-![MongoDB](https://img.shields.io/badge/-MongoDB-1a1b27?style=for-the-badge&logo=mongodb&logoColor=%2347A248&labelColor=1a1b27&color=1a1b27&label=)
+![MongoDB](https://img.shields.io/badge/-MongoDB-1a1b27?style=for-the-badge&logo=mongodb&logoColor=%2300FF85&labelColor=1a1b27&color=1a1b27&label=)
 
 
 ## Featured Projects
@@ -45,7 +45,7 @@ Solar-powered smart stray pet feeder system combining sustainability with IoT te
 
 ## Contribution Activity
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Saimeown&theme=tokyo-night&hide_border=true&area=true" height="285px" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Saimeown&theme=tokyo-night&hide_border=true&area=true" height="295px" />
 </div>
 
 ## What I'm Working On
