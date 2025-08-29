@@ -1,9 +1,9 @@
 # Simon Brian G. Pamintuan 
 
-## 🎓 About Me
+## About Me
 I'm a **4th Year IT Student** and **Full-Stack Developer** passionate about creating innovative solutions that make a real-world impact. Currently expanding my knowledge in modern technologies while building practical applications.
 
-## 💻 Tech Stack
+## Tech Stack
 
 ### Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -21,7 +21,7 @@ I'm a **4th Year IT Student** and **Full-Stack Developer** passionate about crea
 ### Currently Learning
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### 🦷 [ToothTrackr](https://github.com/Saimeown/ToothTrackr)
 A comprehensive dental clinic scheduling and management system featuring:
@@ -48,11 +48,11 @@ Solar-powered smart stray pet feeder system combining sustainability with IoT te
 
 </div>
 
-## 📈 Contribution Activity
+## Contribution Activity
 
 ![Simon's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Saimeown&theme=tokyo-night&hide_border=true&area=true)
 
-## 🎯 What I'm Working On
+## What I'm Working On
 
 - 🔭 Currently developing full-stack web applications and learning modern frameworks
 - 🌱 Expanding my database knowledge with **MongoDB**
@@ -60,7 +60,7 @@ Solar-powered smart stray pet feeder system combining sustainability with IoT te
 - 💡 Building projects that bridge technology and petcare
 - 🎵 Preparing mentally for TS12
 
-## 💼 Professional Focus
+## Professional Focus
 
 - **Web Development**: Creating responsive, user-friendly applications
 - **Mobile Development**: Cross-platform solutions with modern frameworks
@@ -68,7 +68,7 @@ Solar-powered smart stray pet feeder system combining sustainability with IoT te
 - **Database Design**: Efficient data management and optimization
 - **Full-Stack Solutions**: End-to-end application development
 
-## 🤝 Connect With Me
+## Connect With Me
 
 Always open to collaboration, involving:
 - Health and Petcare technology solutions
