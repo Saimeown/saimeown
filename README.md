@@ -44,7 +44,7 @@ Solar-powered smart stray pet feeder system combining sustainability with IoT te
 
 ## Contribution Activity
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Saimeown&theme=tokyo-night&hide_border=true&area=true" height="250px" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Saimeown&theme=tokyo-night&hide_border=true&area=true" height="300px" />
 </div>
 
 ## What I'm Working On
