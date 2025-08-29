@@ -11,6 +11,7 @@ Currently expanding my knowledge in modern technologies while building practical
 
 ### Frameworks & Technologies
 ![React](https://img.shields.io/badge/-React-1a1b27?style=for-the-badge&logo=react&logoColor=%2361DAFB&labelColor=1a1b27&color=1a1b27&label=)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-1a1b27?style=for-the-badge&logo=tailwindcss&logoColor=%2338B2AC&labelColor=1a1b27&color=1a1b27&label=)
 ![Firebase](https://img.shields.io/badge/-Firebase-1a1b27?style=for-the-badge&logo=firebase&logoColor=%23FFCA28&labelColor=1a1b27&color=1a1b27&label=)
 ![MySQL](https://img.shields.io/badge/-MySQL-1a1b27?style=for-the-badge&logo=mysql&logoColor=%234479A1&labelColor=1a1b27&color=1a1b27&label=)
 ![IoT](https://img.shields.io/badge/-IoT-1a1b27?style=for-the-badge&logo=internetofthings&logoColor=%23E7352C&labelColor=1a1b27&color=1a1b27&label=)
