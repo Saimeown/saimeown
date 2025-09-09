@@ -22,14 +22,14 @@ Currently expanding my knowledge in modern technologies while building practical
 
 
 ## Featured Projects
-### 🦷 [ToothTrackr](https://github.com/Saimeown/ToothTrackr)
+### [ToothTrackr](https://github.com/Saimeown/ToothTrackr)
 A comprehensive dental clinic scheduling and management system featuring:
 - Multi-user dashboard (Admin, Dentist, Patient)
 - Real-time appointment booking with calendar integration
 - Automated email notifications and reminders
 - Digital dental records management
 - **Tech:** PHP, MySQL, JavaScript, Python Flask, FullCalendar
-### 🐕 Kibbler
+### Kibbler
 Solar-powered smart stray pet feeder system combining sustainability with IoT technology:
 - Solar panel energy management
 - Automated feeding schedules
