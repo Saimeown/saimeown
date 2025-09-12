@@ -41,8 +41,8 @@
 
 <h2 align = "center">🌐 Connect with Me</h2>
 <p align = "center">
-	💌Email: <br> <a href = "mailto:simonbriangarcia@gmail.com">simonbriangarcia@gmail.com</a> <br>
-	🌟Porfolio: <br>🚧<br>
+	Email: <br> <a href = "mailto:simonbriangarcia@gmail.com">simonbriangarcia@gmail.com</a> <br>
+	Porfolio: <br>🚧<br>
 </p>
 <hr border = "1px solid gray"></hr>
 <p align = "center">
