@@ -5,7 +5,7 @@
 ## Full-Stack Developer, Front-End Specialist
 
 - Passionate about **designing visuals** and **building interactive web experiences**.  
-- Currently learning **Laravel and Back-End Frameworks**.  
+- Currently learning **Laravel**.  
 - How to reach me? 
 
 [![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Saimeown)
