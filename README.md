@@ -17,17 +17,26 @@
 
 ---
 
-
-### GitHub Stats   
+ 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Saimeown&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" height="170" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saimeown&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" height="170" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Saimeown&show_icons=true&hide_border=true&count_private=true&title_color=FFD700&icon_color=FFD700&text_color=FFFFFF&bg_color=1C1C1C" style="height:170px;" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saimeown&show_icons=true&hide_border=true&layout=compact&title_color=FFD700&icon_color=FFD700&text_color=FFFFFF&bg_color=1C1C1C" style="height:170px;" alt="languages graph" />
 </div>
+
 
 ---
 
-### Tools and Technologies  
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Saimeown&theme=onestar&no-frame=true&margin-w=15&margin-h=15" />
+</div>
+
+
+
+
+---
+
+<h3 align="center">Tools and Technologies</h3>
 
 <p align="center">
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height = "50" width = "50"/>
@@ -45,13 +54,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" height = "50" width = "50" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" height = "50" width = "50" />
 </p>
-
----
-
-### Connect with Me  
-
-📧 : [simonbriangarcia@gmail.com](mailto:simonbriangarcia@gmail.com)  
-🌎 : 🚧 
 
 ---
 
