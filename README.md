@@ -4,7 +4,7 @@
 
 ## Full-Stack Developer, Front-End Specialist
 
-- Passionate about **designing visuals** and **building interactive web experiences**.  
+- Likes **designing visuals** and **building interactive web experiences**.  
 - Currently learning **Laravel**.
 
 ---
