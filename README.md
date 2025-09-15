@@ -57,9 +57,15 @@
 <h3 align="center">You can find me on</h3>
 
 <p align="center">
- 	<img src="https://cdn.simpleicons.org/facebook/1281FF" height="40" />
-	<img src="https://cdn.simpleicons.org/x/ffffff" height="40" />
-	<img src="https://cdn.simpleicons.org/instagram/FF1255" height="40" />
+  <a href="https://www.facebook.com/saigtrs/" target="_blank">
+    <img src="https://cdn.simpleicons.org/facebook/1281FF" height="40" />
+  </a>
+  <a href="https://x.com/saimeown" target="_blank">
+    <img src="https://cdn.simpleicons.org/x/ffffff" height="40" />
+  </a>
+  <a href="https://www.instagram.com/saimese._/" target="_blank">
+    <img src="https://cdn.simpleicons.org/instagram/FF1255" height="40" />
+  </a>
 </p>
 
 ---
