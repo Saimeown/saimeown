@@ -6,7 +6,7 @@
 
 - Likes **designing visuals** and **building interactive web experiences**.  
 - Currently learning **Laravel**.
-- ᓚᘏᗢ : https://saimeown.vercel.app/ (still in development)
+- ᗢ : https://saimeown.vercel.app/ (still in development)
 
 ---
 
