@@ -6,7 +6,7 @@
 
 - Likes **designing visuals** and **building interactive web experiences**.  
 - Currently learning **Laravel**.
-- Portfolio: https://saimeown.vercel.app/
+- ᓚᘏᗢ : https://saimeown.vercel.app/
 
 ---
 
@@ -14,7 +14,7 @@
   <table>
     <tr>
       <td>
-        <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" height="166">
+        <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/58e30265-7dc2-4977-83ab-66d4d1fa6ec3" width="164">
       </td>
       <td>
 		<img src="https://github-readme-stats.vercel.app/api?username=Saimeown&show_icons=true&hide_border=true&count_private=true&title_color=FFD700&icon_color=FFD700&text_color=FFFFFF&bg_color=1C1C1C&rank_icon=github" height="166" alt="stats graph" />
@@ -57,18 +57,9 @@
 <h3 align="center">You can find me on</h3>
 
 <p align="center">
-  <a href="https://www.facebook.com/saigtrs/" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
-  <a href="https://x.com/saimeown" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/saimese._/" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="mailto:simonbriangarcia@gmail.com" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+ 	<img src="https://cdn.simpleicons.org/facebook/1281FF" height="40" />
+	<img src="https://cdn.simpleicons.org/x/ffffff" height="40" />
+	<img src="https://cdn.simpleicons.org/instagram/FF1255" height="40" />
 </p>
 
 ---
