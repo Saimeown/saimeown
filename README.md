@@ -73,3 +73,19 @@
 <p align="center">
 	<i>Transforming imagination to deliver impactful visuals and engaging experiences</i> <br> 
 </p>
+
+---
+
+<h3 align="center">Projects Splash</h3>
+
+<table align="center">
+  <tr>
+    <td align="center"><img src="2d-portfolio.gif" alt="2D Portfolio" width="460"/></td>
+    <td align="center"><img src="kibbler.gif" alt="Kibbler" width="460"/></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="toothtrackr.gif" alt="ToothTrackr" width="460"/></td>
+    <td align="center"><img src="tometou.gif" alt="Tometou" width="460"/></td>
+  </tr>
+</table>
+
