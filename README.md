@@ -77,15 +77,23 @@
 ---
 
 <h3 align="center">Projects Splash</h3>
-
-<table align="center">
+<table align="center" width="100%">
   <tr>
-    <td align="center"><img src="2d-portfolio.gif" alt="2D Portfolio" width="460"/></td>
-    <td align="center"><img src="kibbler.gif" alt="Kibbler" width="460"/></td>
+    <td align="center" width="50%">
+      <img src="2d-portfolio.gif" alt="2D Portfolio" width="100%"/>
+    </td>
+    <td align="center" width="50%">
+      <img src="kibbler.gif" alt="Kibbler" width="100%"/>
+    </td>
   </tr>
   <tr>
-    <td align="center"><img src="toothtrackr.gif" alt="ToothTrackr" width="460"/></td>
-    <td align="center"><img src="tometou.gif" alt="Tometou" width="460"/></td>
+    <td align="center" width="50%">
+      <img src="toothtrackr.gif" alt="ToothTrackr" width="100%"/>
+    </td>
+    <td align="center" width="50%">
+      <img src="tometou.gif" alt="Tometou" width="100%"/>
+    </td>
   </tr>
 </table>
+
 
