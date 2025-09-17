@@ -1,4 +1,4 @@
-# Simon Brian <img align="right" width="30px" height="30" src="https://octodex.github.com/images/nyantocat.gif" />  
+# Simon Brian 
 
 <img align="right" alt="GIF" height="160px" src="https://octodex.github.com/images/daftpunktocat-guy.gif" />
 
