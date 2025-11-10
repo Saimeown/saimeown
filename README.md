@@ -5,7 +5,7 @@
 ## Full-Stack Developer, Front-End Specialist
 
 - Likes **designing visuals** and **building interactive web experiences**.  
-- ᗢ : https://saimeown.vercel.app/ 
+- https://saimeown.vercel.app/ 
 
 ---
 
