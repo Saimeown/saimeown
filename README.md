@@ -8,7 +8,6 @@
 - https://saimeown.vercel.app/ 
 
 ---
-
 <div align="center">
   <table>
     <tr>
@@ -16,14 +15,15 @@
         <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/58e30265-7dc2-4977-83ab-66d4d1fa6ec3" width="164">
       </td>
       <td>
-		<img src="https://github-readme-stats.vercel.app/api?username=Saimeown&show_icons=true&hide_border=true&count_private=true&title_color=FFD700&icon_color=FFD700&text_color=FFFFFF&bg_color=1C1C1C&rank_icon=github" height="166" alt="stats graph" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Saimeown&theme=github_dark" width="350" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saimeown&show_icons=true&hide_border=true&layout=compact&title_color=FFD700&icon_color=FFD700&text_color=FFFFFF&bg_color=1C1C1C" height="166" alt="languages graph" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Saimeown&theme=github_dark" width="350" />
       </td>
     </tr>
   </table>
 </div>
+
 
 ---
 
