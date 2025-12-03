@@ -91,12 +91,6 @@
 
 ---
 
-<p align="center">
-	<i>Transforming imagination to deliver impactful visuals and engaging experiences</i> <br> 
-</p>
-
----
-
 
 
 
