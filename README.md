@@ -7,7 +7,7 @@
 I build **interactive, visually-driven web and mobile applications**  
 with a focus on **UX, motion, and performance**.
 
-🌐 https://saimeown.vercel.app/
+🔗 https://saimeown.vercel.app/
 
 ---
 
