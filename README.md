@@ -52,22 +52,30 @@ with a focus on **UX, motion, and performance**.
 
 ---
 
-<h3 align="center">Tech Stack</h3>
+<h3 align="center">Tech</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+   <img src="https://skillicons.dev/icons?i=js" alt="javascript"/>
+  <img src="https://skillicons.dev/icons?i=ts" alt="typescript"/>
+  <img src="https://skillicons.dev/icons?i=html" alt="html5"/>
+  <img src="https://skillicons.dev/icons?i=css" alt="css3"/>
+  <img src="https://skillicons.dev/icons?i=php" alt="php"/>
+    <img src="https://skillicons.dev/icons?i=react" alt="react"/>
+  <img src="https://skillicons.dev/icons?i=vue" alt="vuejs"/>
+ 
+  
+
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+ <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs"/>
+  <img src="https://skillicons.dev/icons?i=firebase" alt="firebase"/>
+  <img src="https://skillicons.dev/icons?i=graphql" alt="graphql"/>
+    <img src="https://skillicons.dev/icons?i=laravel" alt="laravel"/>
+  <img src="https://skillicons.dev/icons?i=supabase" alt="supabase"/>
+  <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb"/>
+  <img src="https://skillicons.dev/icons?i=mysql" alt="mysql"/>
 </p>
 
 ---
