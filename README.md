@@ -51,7 +51,7 @@ with a focus on **UX, motion, and performance**.
 </table>
 
 ---
-<h3 align="center">Tech</h3>
+<h3 align="center">Tech and Tools</h3>
 
 <p align="center">
   <img width="64" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" title="React"/>
