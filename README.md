@@ -51,31 +51,44 @@ with a focus on **UX, motion, and performance**.
 </table>
 
 ---
-
 <h3 align="center">Tech</h3>
 
 <p align="center">
-   <img src="https://skillicons.dev/icons?i=js" alt="javascript"/>
-  <img src="https://skillicons.dev/icons?i=ts" alt="typescript"/>
-  <img src="https://skillicons.dev/icons?i=html" alt="html5"/>
-  <img src="https://skillicons.dev/icons?i=css" alt="css3"/>
-  <img src="https://skillicons.dev/icons?i=php" alt="php"/>
-    <img src="https://skillicons.dev/icons?i=react" alt="react"/>
-  <img src="https://skillicons.dev/icons?i=vue" alt="vuejs"/>
- 
-  
-
+  <img width="64" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" title="React"/>
+  &nbsp;
+  <img width="64" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vue_js.png" title="Vue.js"/>
+  &nbsp;
+  <img width="64" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/typescript.png" title="TypeScript"/>
+  &nbsp;
+  <img width="64" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tailwind_css.png" title="Tailwind CSS"/>
 </p>
 
 <p align="center">
- <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs"/>
-  <img src="https://skillicons.dev/icons?i=firebase" alt="firebase"/>
-  <img src="https://skillicons.dev/icons?i=graphql" alt="graphql"/>
-    <img src="https://skillicons.dev/icons?i=laravel" alt="laravel"/>
-  <img src="https://skillicons.dev/icons?i=supabase" alt="supabase"/>
-  <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql"/>
-  <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb"/>
-  <img src="https://skillicons.dev/icons?i=mysql" alt="mysql"/>
+  <img width="64" src="https://skillicons.dev/icons?i=nodejs" title="Node.js"/>
+  &nbsp;
+  <img width="64" src="https://skillicons.dev/icons?i=graphql" title="GraphQL"/>
+  &nbsp;
+  <img width="64" src="https://skillicons.dev/icons?i=laravel" title="Laravel"/>
+  &nbsp;
+  <img width="64" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" title="Python"/>
+  &nbsp;
+  <img width="64" src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL"/>
+  &nbsp;
+  <img width="64" src="https://skillicons.dev/icons?i=mongodb" title="MongoDB"/>
+  &nbsp;
+  <img width="64" src="https://skillicons.dev/icons?i=mysql" title="MySQL"/>
+  &nbsp;
+  <img width="64" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/firebase.png" title="Firebase"/>
+  &nbsp;
+  <img width="64" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/supabase.png" title="Supabase"/>
+</p>
+
+<p align="center">
+  <img width="64" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/figma.png" title="Figma"/>
+  &nbsp;
+  <img width="64" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/lua.png" title="Lua"/>
+  &nbsp;
+  <img width="64" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/arduino.png" title="Arduino"/>
 </p>
 
 ---
@@ -84,13 +97,15 @@ with a focus on **UX, motion, and performance**.
 
 <p align="center">
   <a href="https://www.facebook.com/saigtrs/">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+    <img width="52" src="https://cdn.simpleicons.org/facebook/white" title="Facebook"/>
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://x.com/saimeown">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+    <img width="52" src="https://cdn.simpleicons.org/x/white" title="X"/>
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/saimese._/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img width="52" src="https://cdn.simpleicons.org/instagram/white" title="Instagram"/>
   </a>
 </p>
 
