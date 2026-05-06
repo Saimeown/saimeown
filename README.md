@@ -74,8 +74,6 @@ with a focus on **UX, motion, and performance**.
   &nbsp;
   <img width="64" src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL"/>
   &nbsp;
-  <img width="64" src="https://skillicons.dev/icons?i=mongodb" title="MongoDB"/>
-  &nbsp;
   <img width="64" src="https://skillicons.dev/icons?i=mysql" title="MySQL"/>
   &nbsp;
   <img width="64" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/firebase.png" title="Firebase"/>
