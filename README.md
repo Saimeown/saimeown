@@ -56,6 +56,8 @@ I develop modern full-stack web applications with a strong focus on
 <p align="center">
   <img width="64" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" title="React"/>
   &nbsp;
+  <img width="64" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/next_js.png" title="Next.js"/>
+  &nbsp;
   <img width="64" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vue_js.png" title="Vue.js"/>
   &nbsp;
   <img width="64" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/typescript.png" title="TypeScript"/>
