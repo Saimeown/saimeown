@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" height="160px" src="https://octodex.github.com/images/daftpunktocat-guy.gif" />
 
-## Full-Stack Developer • Frontend-Focused
+## Full-Stack Developer & UI/UX Designer
 
 I develop modern full-stack web applications with a strong focus on
 **frontend experience, motion design, responsiveness, and performance**.
