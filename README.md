@@ -4,7 +4,7 @@
 
 ## UI/UX Designer
 
-🔗 https://saimeown.vercel.app/
+🔗 https://simondesigns.xyz
 
 ---
 
